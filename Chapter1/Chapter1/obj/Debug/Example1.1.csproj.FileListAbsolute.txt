@@ -1,0 +1,6 @@
+E:\Subzero Docs\Programing\MCSD Examples\Chapter1\Chapter1\bin\Debug\Chapter1.exe.config
+E:\Subzero Docs\Programing\MCSD Examples\Chapter1\Chapter1\obj\Debug\Chapter1.exe
+E:\Subzero Docs\Programing\MCSD Examples\Chapter1\Chapter1\obj\Debug\Chapter1.pdb
+C:\Users\amiorkov\Desktop\Chapter1\Chapter1\Chapter1\bin\Debug\Chapter1.exe.config
+C:\Users\amiorkov\Desktop\Chapter1\Chapter1\Chapter1\obj\Debug\Chapter1.exe
+C:\Users\amiorkov\Desktop\Chapter1\Chapter1\Chapter1\obj\Debug\Chapter1.pdb

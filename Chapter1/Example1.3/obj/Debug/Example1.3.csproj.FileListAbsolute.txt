@@ -1,0 +1,5 @@
+E:\Subzero Docs\Programing\MCSD Examples\Chapter1\Example1.3\bin\Debug\Example1.3.exe.config
+E:\Subzero Docs\Programing\MCSD Examples\Chapter1\Example1.3\bin\Debug\Example1.3.exe
+E:\Subzero Docs\Programing\MCSD Examples\Chapter1\Example1.3\bin\Debug\Example1.3.pdb
+E:\Subzero Docs\Programing\MCSD Examples\Chapter1\Example1.3\obj\Debug\Example1.3.exe
+E:\Subzero Docs\Programing\MCSD Examples\Chapter1\Example1.3\obj\Debug\Example1.3.pdb

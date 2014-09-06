@@ -1,0 +1,5 @@
+C:\Users\amiorkov\Desktop\Chapter1\Chapter1\Example1.11\bin\Debug\Example1.11.exe.config
+C:\Users\amiorkov\Desktop\Chapter1\Chapter1\Example1.11\bin\Debug\Example1.11.exe
+C:\Users\amiorkov\Desktop\Chapter1\Chapter1\Example1.11\bin\Debug\Example1.11.pdb
+C:\Users\amiorkov\Desktop\Chapter1\Chapter1\Example1.11\obj\Debug\Example1.11.exe
+C:\Users\amiorkov\Desktop\Chapter1\Chapter1\Example1.11\obj\Debug\Example1.11.pdb

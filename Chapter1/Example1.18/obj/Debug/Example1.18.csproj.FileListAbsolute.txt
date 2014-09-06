@@ -1,0 +1,6 @@
+C:\Users\Vladimir\Desktop\Chapter1\Example1.18\bin\Debug\Example1.18.exe.config
+C:\Users\Vladimir\Desktop\Chapter1\Example1.18\bin\Debug\Example1.18.exe
+C:\Users\Vladimir\Desktop\Chapter1\Example1.18\bin\Debug\Example1.18.pdb
+C:\Users\Vladimir\Desktop\Chapter1\Example1.18\obj\Debug\Example1.18.csprojResolveAssemblyReference.cache
+C:\Users\Vladimir\Desktop\Chapter1\Example1.18\obj\Debug\Example1.18.exe
+C:\Users\Vladimir\Desktop\Chapter1\Example1.18\obj\Debug\Example1.18.pdb
