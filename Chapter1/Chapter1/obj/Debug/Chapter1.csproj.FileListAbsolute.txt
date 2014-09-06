@@ -1,6 +1,0 @@
-E:\Subzero Docs\Programing\MCSD Examples\Chapter1\Chapter1\bin\Debug\Chapter1.exe.config
-E:\Subzero Docs\Programing\MCSD Examples\Chapter1\Chapter1\bin\Debug\Chapter1.exe
-E:\Subzero Docs\Programing\MCSD Examples\Chapter1\Chapter1\bin\Debug\Chapter1.pdb
-E:\Subzero Docs\Programing\MCSD Examples\Chapter1\Chapter1\obj\Debug\Chapter1.csprojResolveAssemblyReference.cache
-E:\Subzero Docs\Programing\MCSD Examples\Chapter1\Chapter1\obj\Debug\Chapter1.exe
-E:\Subzero Docs\Programing\MCSD Examples\Chapter1\Chapter1\obj\Debug\Chapter1.pdb

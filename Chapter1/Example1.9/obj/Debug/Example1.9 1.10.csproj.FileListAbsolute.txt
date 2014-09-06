@@ -1,5 +1,0 @@
-C:\Users\amiorkov\Desktop\Chapter1\Chapter1\Example1.9\bin\Debug\Example1.9.exe.config
-C:\Users\amiorkov\Desktop\Chapter1\Chapter1\Example1.9\bin\Debug\Example1.9.exe
-C:\Users\amiorkov\Desktop\Chapter1\Chapter1\Example1.9\bin\Debug\Example1.9.pdb
-C:\Users\amiorkov\Desktop\Chapter1\Chapter1\Example1.9\obj\Debug\Example1.9.exe
-C:\Users\amiorkov\Desktop\Chapter1\Chapter1\Example1.9\obj\Debug\Example1.9.pdb
