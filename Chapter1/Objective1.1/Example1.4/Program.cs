@@ -16,6 +16,9 @@ namespace Example1._4
                 Console.WriteLine("ThreadProc: {0}", i);
                 Thread.Sleep(100);
             }
+
+            Console.Write("Press a key to exit");
+            Console.ReadKey();
         }
 
         public static void Main()

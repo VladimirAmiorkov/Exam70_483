@@ -19,6 +19,7 @@ namespace Example1._28
                         Console.WriteLine(col.Take());
                     }
                 });
+            Console.WriteLine("Enter white space to break");
             Task write = Task.Run(() =>
                 {
                     while (true)
@@ -33,6 +34,9 @@ namespace Example1._28
                     }
                 });
             write.Wait();
+
+            Console.Write("Press a key to exit");
+            Console.ReadKey();
         }
     }
 }

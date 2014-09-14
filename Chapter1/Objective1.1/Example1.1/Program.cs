@@ -16,6 +16,9 @@ namespace Chapter1
                 Console.WriteLine("ThreadProc: {0}", i);
                 Thread.Sleep(0);
             }
+
+            Console.Write("Press a key to exit");
+            Console.ReadKey();
         }
 
         public static void Main()

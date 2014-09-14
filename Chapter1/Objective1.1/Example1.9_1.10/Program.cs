@@ -18,6 +18,7 @@ namespace Example1._9
                     return i.Result * 2;
                 });
             Console.WriteLine(t.Result);
+            Console.Write("Press a key to exit");
             Console.ReadKey();
         }
     }

@@ -44,6 +44,7 @@ namespace Example1._23
                 .Where(i => i % 2 == 0);
             parallelResult.ForAll(e => Console.WriteLine(e));
 
+            Console.Write("Press a key to exit");
             Console.ReadKey();
         }
     }

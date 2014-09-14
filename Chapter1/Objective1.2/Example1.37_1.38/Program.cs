@@ -36,6 +36,7 @@ namespace Example1._37
 
             up.Wait();
 
+            Console.Write("Press a key to exit");
             Console.ReadKey();
 
             //// Generated code from the lock statement

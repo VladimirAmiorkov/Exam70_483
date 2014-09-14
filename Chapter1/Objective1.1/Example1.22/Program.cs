@@ -22,6 +22,7 @@ namespace Example1._22
             }
 
             Console.Write(result);
+            Console.Write("Press a key to exit");
             Console.ReadKey();
         }
     }

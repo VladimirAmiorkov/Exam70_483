@@ -19,8 +19,8 @@ namespace Example1._8
             });
 
             t.Wait();
+            Console.Write("Press a key to exit");
             Console.ReadKey();
-
         }
     }
 }

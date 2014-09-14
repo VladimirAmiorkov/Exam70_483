@@ -27,6 +27,7 @@ namespace Example1._31
                 }
             });
 
+            Console.Write("Press a key to exit");
             Console.ReadKey();
         }
     }

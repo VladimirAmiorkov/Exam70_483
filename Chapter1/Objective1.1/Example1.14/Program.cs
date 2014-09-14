@@ -41,6 +41,7 @@ namespace Example1._14
             });
 
             Task.WaitAll();
+            Console.Write("Press a key to exit");
             Console.ReadKey();
         }
     }

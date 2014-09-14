@@ -47,6 +47,7 @@ namespace Example1._15
                 tasks = temp.ToArray();
             }
 
+            Console.Write("Press a key to exit");
             Console.ReadKey();
         }
     }

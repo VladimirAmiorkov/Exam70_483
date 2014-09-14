@@ -31,8 +31,8 @@ namespace Example1._11
                  }, TaskContinuationOptions.OnlyOnRanToCompletion);
 
             completedTask.Wait();
+            Console.Write("Press a key to exit");
             Console.ReadKey();
-
         }
     }
 }

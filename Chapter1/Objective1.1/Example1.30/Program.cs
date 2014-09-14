@@ -32,6 +32,7 @@ namespace Example1._30
                 Console.WriteLine(result);
             }
 
+            Console.Write("Press a key to exit");
             Console.ReadKey();
         }
     }

@@ -20,6 +20,7 @@ namespace Example1._33
                 Console.WriteLine("Dequeued: {0}", result);
             }
 
+            Console.Write("Press a key to exit");
             Console.ReadKey();
         }
     }

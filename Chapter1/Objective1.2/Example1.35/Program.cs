@@ -28,6 +28,7 @@ namespace Example1._35
             up.Wait();
             Console.WriteLine(n);
 
+            Console.Write("Press a key to exit");
             Console.ReadKey();
         }
     }

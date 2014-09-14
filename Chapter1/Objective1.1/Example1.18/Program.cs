@@ -14,6 +14,7 @@ namespace Example1._18
             string result = DownloadContent().Result;
 
             Console.WriteLine(result);
+            Console.Write("Press a key to exit");
             Console.ReadKey();
         }
 

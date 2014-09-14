@@ -30,6 +30,8 @@ namespace Example1._5
                     Console.WriteLine("Thread B: {0}", field);
                 }
             }).Start();
+
+            Console.Write("Press a key to exit");
             Console.ReadKey();
         }
     }

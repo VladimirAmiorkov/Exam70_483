@@ -33,7 +33,7 @@ namespace Example1._12
                 });
 
             finalTask.Wait();
-
+            Console.Write("Press a key to exit");
             Console.ReadKey();
         }
     }

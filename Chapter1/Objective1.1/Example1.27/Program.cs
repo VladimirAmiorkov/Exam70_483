@@ -23,6 +23,7 @@ namespace Example1._27
                 Console.WriteLine(string.Format("There where {0} excpetions.", e.InnerExceptions.Count));
             }
 
+            Console.Write("Press a key to exit");
             Console.ReadKey();
         }
 

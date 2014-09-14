@@ -15,6 +15,7 @@ namespace Example1._7
                 {
                     Console.WriteLine("working on thread from threadpool.");
                 });
+            Console.WriteLine("Press a key to exit");
             Console.ReadKey();
         }
     }
