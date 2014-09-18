@@ -95,7 +95,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Example1.46_1.47_1.48_1.49_
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Example1.52_1.53_1.54_1.55_1.56", "Objective1.3\Example1.52_1.53_1.54_1.55_1.56\Example1.52_1.53_1.54_1.55_1.56.csproj", "{43714CEC-F9D8-490A-B105-C4E8B5C61A2E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Example1.58", "Objective1.3\Example1.58\Example1.58.csproj", "{191B4B51-6A7A-46DE-97D9-F76CE513BC6F}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Example1.58_1.59", "Objective1.3\Example1.58_1.59\Example1.58_1.59.csproj", "{191B4B51-6A7A-46DE-97D9-F76CE513BC6F}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
