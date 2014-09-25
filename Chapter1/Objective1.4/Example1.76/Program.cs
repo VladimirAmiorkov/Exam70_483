@@ -14,7 +14,6 @@ namespace Example1._76
         {
             Multicast();
 
-
             Console.Write("Press a key to exit");
             Console.ReadKey();
         }
