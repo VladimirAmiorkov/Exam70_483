@@ -13,7 +13,6 @@ namespace Example2._28
             InitializeComponent();
         }
 
-
         private void DisplayInExcel(IEnumerable<dynamic> entities)
         {
             var excelApp = new Microsoft.Office.Interop.Excel.Application();
