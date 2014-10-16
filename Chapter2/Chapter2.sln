@@ -67,7 +67,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Example2.29", "Objective2.1
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Examples 30-39", "Examples 30-39", "{812AFC21-7799-4EDA-847B-0ED8BBFB27D6}"
 	ProjectSection(SolutionItems) = preProject
-		Example2.30.txt = Example2.30.txt
+		Objective2.1\Example2.30.txt = Objective2.1\Example2.30.txt
 	EndProjectSection
 EndProject
 Global
