@@ -2,14 +2,14 @@
 using System.Net.Http;
 using System.Threading.Tasks;
 
-namespace Example4._24
+namespace Example4._25
 {
     class Program
     {
         static void Main(string[] args)
         {
             Console.WriteLine("Getting HttpClient string with async operation:");
-            var task = ReadAsyncHttpRequest();
+            var task = ExecuteMiltiplerequests();
             while (!task.IsCompleted)
             {
                 Console.Write(@"...");
@@ -23,12 +23,16 @@ namespace Example4._24
             Console.ReadKey();
         }
 
-        public static async Task ReadAsyncHttpRequest()
+        public static async Task ExecuteMiltiplerequests()
         {
             HttpClient client = new HttpClient();
-            string result = await client.GetStringAsync("http://www.microsoft.com");
-            Console.WriteLine();
-            Console.WriteLine(result);
+
+            string microsoft = await client.GetStringAsync("http://www.microsoft.com");
+            Console.WriteLine(microsoft);
+            string msdn = await client.GetStringAsync("http://msdn.microsoft.com");
+            Console.WriteLine(msdn);
+            string blogs = await client.GetStringAsync("http://blogs.msdn.com");
+            Console.WriteLine(blogs);
         }
     }
 }
