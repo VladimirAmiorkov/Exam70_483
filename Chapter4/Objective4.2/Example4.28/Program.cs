@@ -5,7 +5,7 @@ namespace Example4._28
 {
     class Program
     {
-        // Example is not supposed to work and would throw and exception as there are not such databases. The example simply shows a specific approach
+        // This example is not supposed to work and would throw and exception as there are not such databases. The example simply shows a specific approach
         static void Main(string[] args)
         {
             var sqlConnectionStringBuilder = new SqlConnectionStringBuilder();
