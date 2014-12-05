@@ -50,6 +50,9 @@ EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Example4.26", "Objective4.1\Example4.26\Example4.26.csproj", "{D8A57FE7-06B6-4F0A-B851-7F5E1F471895}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Objective 4.2 - Consume data", "Objective 4.2 - Consume data", "{9EB81BC0-9C97-4A9A-A397-549A8EE2CBA0}"
+	ProjectSection(SolutionItems) = preProject
+		Objective4.2\Example4.47.txt = Objective4.2\Example4.47.txt
+	EndProjectSection
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Example4.27", "Objective4.2\Example4.27\Example4.27.csproj", "{93C7FF4F-E3E9-4331-A95C-F9CC3D1BEF3C}"
 EndProject
